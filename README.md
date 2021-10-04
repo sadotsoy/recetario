@@ -2,6 +2,8 @@
 
 Recetario lleno de amor, libertad y sabor.
 
+**v1.0.0**
+
 ## Índice
 
 - [`Botanas`](./recetario/botanas/index.md)
