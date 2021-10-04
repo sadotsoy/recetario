@@ -1,8 +1,18 @@
+<!-- page break for pandoc converter or html converter -->
+\pagebreak
+<div style="page-break-after: always;"></div>
+<!-- link internal -->
+<a name="atunEscabeche"></a>
+
 ## Botanas
 
-... [`Índice`](../../README.md)
+... [`Índice pdf`](#indice)
 
-... [`Botanas`](../botanas/index.md)
+... [`Botanas pdf`](#botanas)
+
+... [`Índice Github`](../../README.md)
+
+... [`Botanas Github`](../botanas/index.md)
 
 ### Atún en escabeche
 
