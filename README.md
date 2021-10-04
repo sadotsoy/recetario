@@ -3,7 +3,19 @@
 
 # Recetario
 
-Recetario lleno de amor, libertad y sabor.
+Recetario lleno de amor, libertad y sabor.  
+Las recetas son tomadas de:
+
+```
+- Libros
+- Radio
+- Podcast
+- Internet
+- Boca a Boca
+- Improvisando
+```
+
+Procuraré darle honor a quien se lo merece.
 
 **v1.0.1**
 
