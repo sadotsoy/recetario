@@ -5,7 +5,7 @@
 
 Recetario lleno de amor, libertad y sabor.
 
-**v1.0.0**
+**v1.0.1**
 
 <!-- page break for pandoc converter or html converter -->
 \pagebreak
