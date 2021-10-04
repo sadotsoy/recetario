@@ -1,7 +1,18 @@
+<!-- page break for pandoc converter or html converter -->
+\pagebreak
+<div style="page-break-after: always;"></div>
+<!-- link internal -->
+<a name="campesinaRoquefort"></a>
+
 ## Botanas
 
-... [`Índice`](../../README.md)
-... [`Botanas`](../botanas/index.md)
+... [`Índice pdf`](#indice)
+
+... [`Botanas pdf`](#botanas)
+
+... [`Índice Github`](../../README.md)
+
+... [`Botanas Github`](../botanas/index.md)
 
 ### Campesina de Roquefort
 
